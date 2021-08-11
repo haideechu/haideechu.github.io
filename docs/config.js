@@ -16,7 +16,7 @@ var config = {
             hidden: false,
             title: 'Traffic privileges: Every 9 in 10 traffic violation arrests in New York City involves a person of color',
             image: '',
-            description: 'In a 2017 story, ProPublica documented the way police in Jacksonville, Florida racial-profiled and disproportionately targeted Black Americans for pedestrian violations. Civil rights organizations have long criticized the practice, often referring to it as a new form of “stop-and-frisk,” especially since it often led to erroneous detainments and arrests in majority-minority neighborhoods. <br><br> A similar pattern emerges in New York City today: Nearly every 9 in 10 arrests due to vehicle and traffic law violations between January and March 2021 involved a person of color.',
+            description: 'In a 2017 story, ProPublica documented the way police in Jacksonville, Florida racial-profiled and disproportionately targeted Black Americans for pedestrian violations. Civil rights organizations have long criticized the practice, often referring to it as a new form of “stop-and-frisk,” especially since it often led to erroneous detainments and arrests in majority-minority neighborhoods. <br><br> A similar pattern emerges in New York City today: Nearly every 9 in 10 arrests due to vehicle and traffic law violations between January and March 2021 involved a person of color. Every other arrest involved a Black person.',
             location: {
                 center: [-74.1077, 40.7009],
                 zoom: 9.64,
